@@ -1,5 +1,5 @@
 //Análise os pedaços de código a seguir e tente prever qual será o console.log resultante, A ou B.
-//Você pode rodar os código para verificar suas respostas.
+//Você pode executar os código para verificar suas respostas.
 
 let a = 10
 let b = true
