@@ -1,5 +1,5 @@
-# Repositorio curso programação Ituring ***
-## Arquivos do curso de programação da Ituring
+# Repositorio curso programação Iturin
+## Arquivos do curso
 
 Este é o meu repositório [GitHub Pages](https://github.com/flima622003622003/aulas_curso).
 
